@@ -10,7 +10,7 @@ Nome:
 
 ## Projeto: Gerenciamento de Petições
 
-[## Épicos](pos-catolica/milestones)
+## [Épicos](../../pos-catolica/milestones)
 
 ## Histórias de Usuário
 
