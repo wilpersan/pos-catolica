@@ -14,7 +14,7 @@ Nome:
 
 ## [Histórias de Usuário](../../../pos-catolica/issues)
 
-## Decisões de arquitetura
+## [Decisões de arquitetura](doc/architecture/decisions)
 
 ## Alertas de viabilidade
 
