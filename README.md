@@ -16,7 +16,7 @@ Nome:
 
 ## [Decisões de arquitetura](doc/architecture/decisions)
 
-## Alertas de viabilidade
+## [Alertas de viabilidade](doc/risk)
 
 
 
