@@ -2,11 +2,11 @@
 
 ## Grupo
 
-Nome: Bill Gates
+Nome: Gustavo Araujo Cardozo
 
-Nome: Steve Jobs
+Nome: Kelly Patricia de Souza
 
-Nome: Maradona
+Nome: Wilson Santos
 
 ## Projeto: Gerenciamento de Petições
 
