@@ -1,0 +1,21 @@
+     
+20 lines (10 sloc)  284 Bytes
+# 1. Record architecture decisions
+
+Date: 2018-04-14
+
+## Status
+
+Aguardando Aceite
+
+## Context
+
+Por se adaptar a qualquer Browser e possuir tecnologia Mobile
+
+## Decision
+
+Utilização do HTML 5, CSS 3, BootStrap, Java Script
+
+## Consequences
+
+Necessidade da importação das bibliotecas bootstrap CDN
