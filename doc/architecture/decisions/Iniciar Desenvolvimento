@@ -1,0 +1,22 @@
+20 lines (10 sloc)  284 Bytes
+# 1. Record architecture decisions
+
+Date: 2018-04-14
+
+## Status
+
+Definido
+
+## Context
+
+Para visualização e adaptação rápida do cliente
+
+
+## Decision
+
+Iniciar desenvolvimento pelo cadastro de Petição;
+
+## Consequences
+
+Solicitação de mudança por parte do cliente
+Iniciar cadastro de petições mesmo sem a ferramenta totalmente pronta
