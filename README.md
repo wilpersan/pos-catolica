@@ -2,11 +2,11 @@
 
 ## Grupo
 
-Nome:
+Nome: Bill Gates
 
-Nome:
+Nome: Steve Jobs
 
-Nome:
+Nome: Maradona
 
 ## Projeto: Gerenciamento de Petições
 
