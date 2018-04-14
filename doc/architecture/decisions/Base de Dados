@@ -1,0 +1,19 @@
+# 1. Record architecture decisions
+
+Date: 2018-04-14
+
+## Status
+
+Aguardando Aceite
+
+## Context
+
+Conhecimento da Ferramenta e Financeiramente viável para o client
+
+## Decision
+
+Utilização do banco de dados MySql
+
+## Consequences
+
+Necessidade da ferramenta no servidor de hospedagem
