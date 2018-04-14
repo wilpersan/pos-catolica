@@ -6,9 +6,12 @@ Date: 2018-04-10
 
 Accepted
 
+
 ## Context
 
 We need to record the architectural decisions made on this project.
+
+De acordo com a tarefa #1
 
 ## Decision
 
