@@ -19,3 +19,5 @@ Utilização do HTML 5, CSS 3, BootStrap, Java Script
 ## Consequences
 
 Necessidade da importação das bibliotecas bootstrap CDN
+Manter páginas padronizadas para serem usadas como exemplo
+Validação do template para evitar alterações posteriores
