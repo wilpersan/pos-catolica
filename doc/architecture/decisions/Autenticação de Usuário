@@ -10,10 +10,20 @@ Aguardando Aceite
 ## Context
 
 Para incentivar o compartilhamento de petições
+Utilizar a sequencia abaixo para as auteticações
+1 - Facebook
+2 - Google
+3 - Cadastro próprio da ferramenta
+4 - Twiter
 
 ## Decision
 
-Iniciar a parte de autenticações de usuários pela Api do facebook, para atingir um número alto (> que Linkedin e > que cadastros de usuários, porém < Facebook) de adesões e incentivar ao compartilhamento imediato das petições assinadas 
+Iniciar a parte de autenticações de usuários pela Api do facebook, para atingir um número alto 
+(maior que Twiter e maior que cadastros de usuários, porém menor que Google) de adesões 
+e incentivar ao compartilhamento imediato das petições assinadas ;
 
 ## Consequences
 
+Rápida autenticação de usuários de facebook
+Compartilhamento imediato através do usuário autenticado
+Número de do Google é superior ao de usuários do Facebook
