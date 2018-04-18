@@ -4,11 +4,12 @@ Date: 2018-04-14
 
 ## Status
 
-Aguardando Aceite
+Aguardando Aceite 
 
 ## Context
 
-Conhecimento da Ferramenta e Financeiramente viável para o client
+Levado em consideração o conhecimento do time na ferramenta;
+Financeiramente viável para o cliente;
 
 ## Decision
 
@@ -17,3 +18,4 @@ Utilização do banco de dados MySql
 ## Consequences
 
 Necessidade da ferramenta no servidor de hospedagem
+Utilização de SGBD e outras ferramentas próprias empresa (Oracle) para otimizar a utilização do espaço disponibioizado gratuitamente pela ferramenta. 
