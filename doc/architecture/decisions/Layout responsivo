@@ -1,0 +1,21 @@
+20 lines (10 sloc)  284 Bytes
+# 1. Record architecture decisions
+
+Date: 2018-04-14
+
+## Status
+
+Definido
+
+## Context
+
+Por se adaptar a qualquer tamanho de tela, Pc, Tablet e mobile
+
+## Decision
+
+Layout responsivo
+
+## Consequences
+
+Aumentar o público alvo e facilitar o compartilhamento
+Realizar testes em, no mínimo, 80% da variação de tamanho de telas
