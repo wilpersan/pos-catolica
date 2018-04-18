@@ -9,8 +9,8 @@ Definido
 
 ## Context
 
-Para visualização e adaptação rápida do cliente
-
+Para visualização, adaptação e críticas rápidas por parte do cliente
+Para Inicio dos cadastros de petições mesmo sem a ferramenta estar totalmente pronta
 
 ## Decision
 
@@ -19,4 +19,3 @@ Iniciar desenvolvimento pelo cadastro de Petição;
 ## Consequences
 
 Solicitação de mudança por parte do cliente
-Iniciar cadastro de petições mesmo sem a ferramenta totalmente pronta
