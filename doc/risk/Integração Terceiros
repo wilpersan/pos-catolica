@@ -1,1 +1,43 @@
+# Identificação
 
+## ID
+Problemas com integração com terceiros
+
+## Descrição
+Demora em receber instruções/informações do terceiro;
+Alteração no sistema a ser integrado;
+
+## Categoria
+Técnica
+
+# Análise
+
+## Impacto
+Média
+
+## Probabilidade
+Grande
+
+## Consequencia
+1-Interrupção da integração;
+2-Atraso do projeto;
+3-Alteração de escopo;
+
+# Avaliação
+
+## Ranking
+
+## Gatilho
+1-Atraso no envio de informações por parte do terceiro;
+2-Quando houver mudança no software do terceiro;
+
+# Tratamento
+
+## Plano de prevenção
+1-Acordar que as informações de alteração devem ser discutidas com antecedência mínima de 30 dias;
+2-Solicitar que mudanças previstas no software devam ser notificadas antecipadamente com antecedência mínima de 30 dias;
+
+## Plano de contingência
+Reunir equipe para estudar e apresentar solução para o caso
+## Responsável
+Equipe
