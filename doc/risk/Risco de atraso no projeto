@@ -1,43 +1,40 @@
 # Identificação
 
 ## ID
-Ser acionado na justiça devido ao recebimento de e-mail não solicitados 
+Risco de atraso no projeto 
 
 ## Descrição
-Receber e-mails não solicitados pode acarretar problemas judiciais
+ Risco de atraso no projeto, devido à imprevistos com a equipe que é considerada pequena
 
 ## Categoria
-Jurídica
+Agenda
 
 # Análise
 
 ## Impacto
-Média
+Pequeno
 
 ## Probabilidade
 Média
 
 ## Consequencia
-Ter que acessar o setor jurídico da empresa para analisar e responder às questões pertinentes
+Entrega do projeto fora do prazo acordado
 
 # Avaliação
 
 ## Ranking
 
 ## Gatilho
-Desconforto por parte do destinatário do e-mail em receber grande volume de e-mail pressionando sobre determinado assunto
-Acionamento na justiça por parte do setor jurídico do destinatário do e-mail
+Ausências inesperadas 
 
 # Tratamento
 
 ## Plano de prevenção
-1-Anexar informações legais sobre envio de e-mail para pessoas com cargos  públicos, alertando sobre a não ilegalidade do ato;
-2-Avaliar se o e-mail é realmente público;
-3-Incluir nas cláusulas do contrato do software que a responsabilidade da seleção dos e-mail para pressão das petições, é de responsabilidade do usuário administrador do sistema (Cliente).
+Atentar ao assumir novas tarefas, atentar à possibilidade de ausências, documentar o andamento do projeto
 
 ## Plano de contingência
- Acionar defesa com o setor jurídico
+ Trabalhar em horas extras
 
 ## Responsável
- Setor Jurídico da empresa
+  Equipe - Mensagem Whats/E-mail/Sms
 
